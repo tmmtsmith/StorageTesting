@@ -1,0 +1,1 @@
+{nThreads:2,w:true,r:false,mmf:true,fileSizeMB:10}
