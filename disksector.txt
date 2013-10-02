@@ -1,0 +1,5 @@
+Windows:
+
+1.  Go to "System Information"
+2.  After expanding "Components", expand "Storage"
+3.  We'll see information about Disk Drives.
