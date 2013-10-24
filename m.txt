@@ -1,0 +1,4 @@
+db.stocks.findAndModify( {
+    query: { stock: "SPY" },
+    update: { $inc: { SPYID: 1 } }
+} )
